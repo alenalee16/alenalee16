@@ -26,12 +26,12 @@
 
 As part of my degree I complete programming exercises. I keep them here just to track my progress as a student:
 
-- 🧮 [simple-calculator](https://github.com/alenalee16/simple-calculator) — a basic calculator (HTML/CSS/JS) from a class activity
-- ⚙️ [javascript-oop-practice](https://github.com/alenalee16/javascript-oop-practice) — OOP exercises (classes, objects)
-- 🔤 [javascript-basics](https://github.com/alenalee16/javascript-basics) — arrays, map/filter/reduce practice
-- 💻 [cpp-fundamentals](https://github.com/alenalee16/cpp-fundamentals) — C++ exercises from my first year
-- 🔢 [beginner-js-programs](https://github.com/alenalee16/beginner-js-programs) — multiplication table & even/odd filter
-- 🌐 [beginner-web-projects](https://github.com/alenalee16/beginner-web-projects) — simple HTML/CSS pages
+- [simple-calculator](https://github.com/alenalee16/simple-calculator) — a basic calculator (HTML/CSS/JS) from a class activity
+- [javascript-oop-practice](https://github.com/alenalee16/javascript-oop-practice) — OOP exercises (classes, objects)
+- [javascript-basics](https://github.com/alenalee16/javascript-basics) — arrays, map/filter/reduce practice
+- [cpp-fundamentals](https://github.com/alenalee16/cpp-fundamentals) — C++ exercises from my first year
+- [beginner-js-programs](https://github.com/alenalee16/beginner-js-programs) — multiplication table & even/odd filter
+- [beginner-web-projects](https://github.com/alenalee16/beginner-web-projects) — simple HTML/CSS pages
 
 *These are student exercises, not professional projects.*
 
@@ -48,12 +48,12 @@ Bachelor of Science in Information Technology
 
 ## 🎯 What I'm Working Toward
 
-- 🧭 Finding an IT path that fits me (support, data, or operations rather than heavy coding)
-- 💪 Improving my practical skills through small, real tasks
-- 💼 Looking for internships, part-time, freelance, or entry-level chances to learn on the job
-- 🌱 Staying consistent and open to being trained
+- Finding an IT path that fits me (support, data, or operations rather than heavy coding)
+- Improving my practical skills through small, real tasks
+- Looking for internships, part-time, freelance, or entry-level chances to learn on the job
+- Staying consistent and open to being trained
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm a student who's eager to learn and grow in IT. I'm open to opportunities where I can help, learn from others, and build real experience.
 
