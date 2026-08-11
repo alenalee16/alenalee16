@@ -1,68 +1,64 @@
 # Hi there, I'm Alena 👋
 
-> BSIT student exploring technology, building practical skills, and discovering where I fit best in the IT field.
+> BSIT student exploring the IT field, figuring out where I fit best, and building practical skills along the way.
 
 ## 📌 About Me
 
 - 🎓 **BS Information Technology** student at **Pangasinan State University – Lingayen Campus** (2nd year)
-- 🌱 Currently learning **C++ and JavaScript** as part of my studies
 - 📍 Based in **Lingayen, Pangasinan, Philippines**
-- 💡 Exploring **IT support, data entry, social media assistance, and other beginner-friendly tech opportunities**
-- 📚 Currently developing my technical, communication, and problem-solving skills
-- ✉️ **[alenaaneleleedoqueza@gmail.com](mailto:alenaaneleleedoqueza@gmail.com)**
+- 🤔 Still exploring which IT career path is right for me — I'm open and curious
+- 💡 Interested in **IT support, data entry, social media assistance, and other beginner-friendly tech roles**
+- 🌱 I'll be honest: coding isn't my favorite part of IT, and I'm still building my confidence with it. But I'm **willing to learn** and keep improving.
+- ✉️ [alenaaneleleedoqueza@gmail.com](mailto:alenaaneleleedoqueza@gmail.com)
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills I'm Developing
 
-| Category | Skills / Tools |
-|---|---|
-| Programming | C++ · JavaScript (Beginner) |
-| Web Basics | HTML · CSS |
-| Tools | Git · GitHub · VS Code |
-| Other Skills | Data Entry · Social Media Assistance · Basic Computer Skills |
+| Area | What I can do / am learning |
+|------|------------------------------|
+| Everyday tech | Computer literacy, data entry, organizing files & documents |
+| People skills | Teamwork, time management, working well under pressure |
+| Social media | Assisting with posts, scheduling, basic content organization |
+| Web & coding (beginner) | A little HTML, CSS, JavaScript & C++ from school — still learning |
 
-## 📂 Projects
+> I'm **not** a programmer and I don't claim to be one. The coding bits below are from my coursework that I'm practicing.
 
-These are beginner projects and exercises I've created while learning. They represent my progress as an IT student and give me opportunities to practice what I learn in class.
+## 📂 Coursework & Practice
 
-- 🧮 **[simple-calculator](https://github.com/alenalee16/simple-calculator)**  
-  A basic calculator created using HTML, CSS, and JavaScript.
+As part of my degree I complete programming exercises. I keep them here just to track my progress as a student:
 
-- ⚙️ **[javascript-oop-practice](https://github.com/alenalee16/javascript-oop-practice)**  
-  Practice exercises covering classes, objects, and basic OOP concepts.
+- 🧮 [simple-calculator](https://github.com/alenalee16/simple-calculator) — a basic calculator (HTML/CSS/JS) from a class activity
+- ⚙️ [javascript-oop-practice](https://github.com/alenalee16/javascript-oop-practice) — OOP exercises (classes, objects)
+- 🔤 [javascript-basics](https://github.com/alenalee16/javascript-basics) — arrays, map/filter/reduce practice
+- 💻 [cpp-fundamentals](https://github.com/alenalee16/cpp-fundamentals) — C++ exercises from my first year
+- 🔢 [beginner-js-programs](https://github.com/alenalee16/beginner-js-programs) — multiplication table & even/odd filter
+- 🌐 [beginner-web-projects](https://github.com/alenalee16/beginner-web-projects) — simple HTML/CSS pages
 
-- 🔤 **[javascript-basics](https://github.com/alenalee16/javascript-basics)**  
-  Beginner JavaScript exercises involving arrays, `map()`, `filter()`, and `reduce()`.
-
-- 💻 **[cpp-fundamentals](https://github.com/alenalee16/cpp-fundamentals)**  
-  Basic C++ exercises and programming activities from my studies.
-
-- 🔢 **[beginner-js-programs](https://github.com/alenalee16/beginner-js-programs)**  
-  Simple JavaScript programs including a multiplication table and even/odd number filtering.
-
-- 🌐 **[beginner-web-projects](https://github.com/alenalee16/beginner-web-projects)**  
-  Basic HTML and CSS practice projects created while learning web fundamentals.
+*These are student exercises, not professional projects.*
 
 ## 🎓 Education
 
-**Pangasinan State University – Lingayen Campus**  
-Bachelor of Science in Information Technology  
+**Pangasinan State University – Lingayen Campus**
+Bachelor of Science in Information Technology
 2025 – Present
 
-### Current Areas of Study
+### Currently studying
 - Data Structures & Algorithms (DSA)
 - Human-Computer Interaction (HCI)
 - Object-Oriented Programming (OOP)
 
-## 🎯 Currently Working On
+## 🎯 What I'm Working Toward
 
-- 📖 Strengthening my fundamentals in programming and computer technology
-- 💻 Building small projects to apply what I learn
-- 🧩 Improving my problem-solving and technical skills
-- 💼 Exploring internships, freelance work, part-time opportunities, and entry-level IT roles
-- 🌱 Learning more about the different career paths available in the IT field
+- 🧭 Finding an IT path that fits me (support, data, or operations rather than heavy coding)
+- 💪 Improving my practical skills through small, real tasks
+- 💼 Looking for internships, part-time, freelance, or entry-level chances to learn on the job
+- 🌱 Staying consistent and open to being trained
 
 ## 🤝 Let's Connect
 
-I'm currently learning and exploring different areas of IT. I'm always open to opportunities where I can gain experience, learn from others, and contribute while continuing to grow.
+I'm a student who's eager to learn and grow in IT. I'm open to opportunities where I can help, learn from others, and build real experience.
 
 📧 **Email:** [alenaaneleleedoqueza@gmail.com](mailto:alenaaneleleedoqueza@gmail.com)
+
+---
+
+*A work in progress — just like me. Thanks for visiting! 😊*
